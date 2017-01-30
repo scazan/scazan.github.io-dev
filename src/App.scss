@@ -1,0 +1,36 @@
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+	position: fixed;
+	top: 50px;
+	left: 50px;
+
+	font-size: 4rem;
+	text-transform: uppercase;
+	color: #9b3bff;
+	height: 50px;
+
+	cursor: e-resize;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400,300);
+@import url(https://fonts.googleapis.com/css?family=Crimson+Text);
+
+
+
+
+
+
